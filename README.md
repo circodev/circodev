@@ -1,4 +1,4 @@
-# <p style="color: #138d6c;"> [@jamcicro](https://github.com/jamcicro) </p>/ About me
+# $\color{#138d6c}\normalsize\textsf{CircoDev}$ / About me
 
 <p align="center">
     <a href="#">
@@ -8,19 +8,11 @@
 </p>
 
 <h1 align="center" color="red">Hi 👋, I'm
-    <a href="https://www.vohoangphuc.com">Nhat Luu Quoc</a>.
+    <a href="https://www.vohoangphuc.com">$\color{#138d6c}\normalsize\textsf{CircoDev}$</a>.
 </h1>
 <h3 align="center">A passionate fullstack developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
-
-## 🏆GitHub Trophies
-
-<p align="center">
-    <a href="#github-trophies">
-        <img src="[https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="@vhpx's Github Trophies" />
-    </a>
-</p>
 
 ## About me
 
