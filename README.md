@@ -1,21 +1,20 @@
-# $\color{#138d6c}\normalsize\textsf{CircoDev}$ / About me
+<h2>$\color{#138d6c}\normalsize\textsf{CircoDev}$ / About me</h2>
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/circodev/circodev/assets/bg-img.png">
+        <img width="100%"" src="https://github.com/circodev/circodev/blob/main/assets/1.jpg">
     </a>
 </p>
 
-<h1 align="center" color="red">Hi 👋, I'm
-    <a href="https://www.vohoangphuc.com">$\color{#138d6c}\normalsize\textsf{CircoDev}$</a>.
+<h1 align="center" color="red">Hi, I'm
+   $\color{#138d6c}\normalsize\textsf{CircoDev}$
 </h1>
-<h3 align="center">A passionate fullstack developer from
-    <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
+<h3 align="center">
+    A passionate fullstack developer from $\color{#138d6c}\normalsize\textsf{Vietnam}$.
 </h3>
 
 ## About me
-
-- 🔭 I’m currently working on **[Tuturuuu](https://pastal.com)**.
+- 🔭 I’m currently working on **[pastal](https://pastal.com)**.
 - 📫 How to reach me **nhatluudev@gmail.com**.
 
 ## Connect with me
