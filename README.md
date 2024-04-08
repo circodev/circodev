@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-        <img width="100%"" src="https://github.com/circodev/circodev/blob/main/assets/1.jpg">
+        <img width="100%"" src="https://github.com/circodev/circodev/blob/main/assets/3.jpg">
     </a>
 </p>
 
